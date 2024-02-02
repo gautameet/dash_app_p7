@@ -10,6 +10,9 @@ import pickle
 import sys
 import matplot.pyplot as plt
 import shap
+import pandas as pd
+import numpy as np
+
 
 
 st.title("Test project 7 dashboaard")
