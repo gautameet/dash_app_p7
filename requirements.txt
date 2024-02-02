@@ -5,6 +5,7 @@ panda
 scikit-learn
 shap
 matplotlib
+PIL
 
 #cloudpickle==3.0.0
 #colorama==0.4.6
