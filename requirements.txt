@@ -6,6 +6,10 @@ scikit-learn
 shap
 matplotlib
 PIL
+altair
+pickle
+os
+sys
 
 #cloudpickle==3.0.0
 #colorama==0.4.6
