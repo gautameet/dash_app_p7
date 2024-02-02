@@ -10,7 +10,6 @@ import pickle
 import sys
 import shap
 
-
 st.title("Test project 7 dashboaard")
 
 feat = ['SK_ID_CURR','TARGET','DAYS_BIRTH','NAME_FAMILY_STATUS','CNT_CHILDREN',
