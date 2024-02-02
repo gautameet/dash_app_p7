@@ -8,7 +8,7 @@ os.environ["SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL"] = "True"
 from zipfile import ZipFile, BadZipFile
 import pickle
 import sys
-import matplot.pyplot as plt
+import matplotlib.pyplot as plt
 import shap
 import pandas as pd
 import numpy as np
