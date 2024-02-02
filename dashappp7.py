@@ -8,7 +8,8 @@ os.environ["SKLEARN_ALLOW_DEPRECATED_SKLEARN_PACKAGE_INSTALL"] = "True"
 from zipfile import ZipFile, BadZipFile
 import pickle
 import sys
-#import shap
+import matplot.pyplot as plt
+import shap
 
 
 st.title("Test project 7 dashboaard")
