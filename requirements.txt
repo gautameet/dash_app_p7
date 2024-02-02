@@ -5,7 +5,7 @@ panda==1.5.2
 scikit-learn==1.4.0
 shap==0.44.1
 matplotlib==3.6.3
-Pillow==10.2.0
+PIL
 altair==5.1.2
 #pickle==
 #os
